@@ -6,6 +6,7 @@ Travel Discovery Requirements Document
 
 1.1 Website Name
 Travel Discovery
+
 1.2 Website Description
 An innovative travel assistant platform that helps users plan, organize, and enhance their travel experiences through AI-powered tools, smart features, and community-driven content sharing.
 
